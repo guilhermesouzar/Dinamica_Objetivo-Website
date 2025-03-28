@@ -2,6 +2,11 @@
 
 Projetado para apresentar os serviços e soluções da empresa, com um design moderno e responsivo. O objetivo é proporcionar uma navegação fácil e intuitiva, permitindo que os visitantes conheçam melhor a missão, visão e serviços da empresa.
 
+## Imagens do site
+![image](https://github.com/user-attachments/assets/a9714030-b00a-4539-9646-181951f76537)
+![image](https://github.com/user-attachments/assets/24f7777a-68a6-4609-b27b-d0b20bcb3f79)
+![image](https://github.com/user-attachments/assets/d6875e40-f998-4e01-ad49-518527fb5a0f)
+
 ## **Tecnologias Utilizadas**
 
 ### **Frontend:**
@@ -34,3 +39,6 @@ Projetado para apresentar os serviços e soluções da empresa, com um design mo
 - **Galeria e Portfólio Dinâmico**: Utiliza a biblioteca *Isotope* para organizar e filtrar o conteúdo, proporcionando uma experiência visual interativa.
 - **Formulários de Contato**: Envio de mensagens diretamente para o e-mail da empresa através da integração com o *EmailJS*.
 - **Animações e Interatividade**: Utilização de *jQuery* e *jQuery UI* para animações dinâmicas e interatividade com o usuário.
+
+## Acesse
+https://dinamicaobjetivo.com.br/
